@@ -43,6 +43,7 @@ div {
 .header-links h3 {
     font-size: 18px;
     color: #E5E7EB;
+    font-weight: 400;
 }
 
 .splash-wrapper {
@@ -86,6 +87,7 @@ button {
 
 .header-inter {
     justify-content: center;
+    margin-top:50px;
 }
 
 .gallery {
@@ -176,4 +178,14 @@ button {
 .spacer {
     display: block;
     min-height: 100px;
+}
+
+.footer {
+    display: block;
+    background-color: #1F2937;
+    margin:auto;
+    padding: 25px;
+    color: white;
+    text-align: center;
+    font-size: 14px;
 }
